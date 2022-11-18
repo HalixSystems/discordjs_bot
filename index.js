@@ -1,7 +1,7 @@
 
 const Discord = require('discord.js');
 const clientId = "ClientID";
-const token = "Tooken";
+const token = "Token";
 const { Routes } = require('discord-api-types/v9'); 
 const { REST } = require('@discordjs/rest');
 const voice = require('@discordjs/voice');
